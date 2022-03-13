@@ -43,7 +43,8 @@ The deployed application can be used at [Heroku]()
 You can also use `npm start` while in the client folder to run items as well as in the server folder you can use `npm run watch`. To build for production ensure you run `npm run build` so that it produces a build for deployment. 
 
 ## Images
-<img src="">
+<img src="https://github.com/alexisn84/holy-grail/blob/main/client/public/homepage.png">      
+<img src="https://github.com/alexisn84/holy-grail/blob/main/client/public/dashboard.png">
 
 ## License Details 
 This project is MIT licensed.
